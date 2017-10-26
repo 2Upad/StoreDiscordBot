@@ -13,7 +13,7 @@ You need to edit the imagens, wallets and text in the data/commands.
 
 Create u bot and put client ID and Token in data/settings.json
 
-if u need any help
+if u need any help / look how this bot work
 
 https://discord.gg/Zwhqswh
 
